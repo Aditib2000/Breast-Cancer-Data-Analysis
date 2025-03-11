@@ -2,7 +2,8 @@
 Performed an in-depth analysis of a breast cancer dataset to explore correlations between tumor characteristics and cancer diagnoses. Conducted data cleaning and visualization using Tableau to uncover patterns and insights, enhancing understanding of key predictors for breast cancer detection and diagnosis.
 Today, I’ll be presenting an analysis of a breast cancer dataset, discussing its structure, cleaning process, key questions, and insights derived from visualizations. The primary aim is to understand how tumor characteristics correlate with diagnoses and explore patterns in the data that can improve our understanding of breast cancer.
 ![plot](./Breast_Cancer1.jpg)
-
+![plot](./Breast_Cancer2.jpg)
+![plot](./Breast_Cancer3.jpg)
 The dataset contains 570 rows, each representing a patient’s tumor record, and 32 columns, which are features extracted from tumor analysis. These features include measurements like radius, texture, perimeter, and smoothness, categorized into mean, standard error, and worst-case values.
 
 Let’s walk through the steps of preparing this data for analysis, asking the right questions, and using visualization tools like Tableau to derive actionable insights.
